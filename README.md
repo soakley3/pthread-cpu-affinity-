@@ -1,7 +1,7 @@
 # pthread-cpu-affinity-
 
-These test program were written to prove that CPU affinity inheritence from pthread_create 
-designates which logical CPU a thread sticks to. 
+These test programs were written to prove that CPU affinity inheritence from pthread_create 
+designates which logical CPU a thread may prefer.
 
 Each file can be compiled with:
 
